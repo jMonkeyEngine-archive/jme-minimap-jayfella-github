@@ -3,6 +3,9 @@ JME-Minimap
 
 A minimap state for jMonkeyEngine
 
+See the [main class](https://github.com/jayfella/jme-minimap/blob/master/src/main/java/com/jayfella/minimap/Main.java) for a fully working prototype.
+
+
 ```java
 
 public class Main extends SimpleApplication {
